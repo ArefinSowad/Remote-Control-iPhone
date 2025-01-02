@@ -3,6 +3,8 @@ Using a **BLUETOOTH** mouse, or keyboard, or game controller, it’s possible to
 
 Requirements: A **BLUETOOTH** mouse, or keyboard, or game controller. The device controlling it must have at least a web browser. If the controlling device doesn't support Bluetooth but does support a usb wireless connection (like most wireless mouses), you may be able to use a dongle to connect to your phone, but I haven't tested it.
 
+⭐❓
+
 1. Go to Settings > Accessibility > Touch > AssistiveTouch, and enable AssistiveTouch
 2. Scroll down to pointer devices and open the devices tab. Select Bluetooth devices, put your mouse and/or keyboard into pairing mode, and pair it to your phone.
 4. Disable the following settings: Always Show Menu, Dwell Control
