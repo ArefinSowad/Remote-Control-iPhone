@@ -6,6 +6,6 @@ Requirements: A **BLUETOOTH** mouse, or keyboard, or game controller.
 3. Disable the following settings: Always Show Menu, Dwell Control, Show Onscreen Keyboard (unless using a Bluetooth keyboard)
 4. Download [this](https://apps.apple.com/us/app/screen-mirroring-app/id1463795505) app
 5. On the device controlling your phone, open [mirroring.tv](http://mirroring.tv). (Or [tvee.app](https://tvee.app) for https support but worse performance)
-6. Scan the QR code shown using the Screen Mirroring app on your phone, and select watch ad. (Yes you can use an [Adblocker](https://cdn.adguard.com/public/Dns/adguard-dns.mobileconfig))
+6. Scan the QR code shown using the Screen Mirroring app on your phone, and select watch ad. (Yes you can use an [Adblocker](https://raw.githubusercontent.com/mullvad/encrypted-dns-profiles/refs/heads/main/base/mullvad-encrypted-dns-https-base.mobileconfig))
 7. Press the settings icon and disable Super Mode.
 8. Select Screen Mirror, then broadcast.
